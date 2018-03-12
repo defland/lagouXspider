@@ -22,5 +22,6 @@ scrapy版本v1需求(100%实现)：
 
 # 实例效果截图
 
-![9f8AYD.png](https://s1.ax1x.com/2018/03/12/9f8AYD.png)
+[![9f8AYD.png](https://s1.ax1x.com/2018/03/12/9f8AYD.png)](https://imgchr.com/i/9f8AYD)
+
 
