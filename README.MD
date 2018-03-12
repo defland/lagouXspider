@@ -15,7 +15,7 @@ scrapy版本v1需求(100%实现)：
 - 拉勾网定向爬虫
 - 实现关键字岗位的抓取，例如抓取广州的所有Python岗位，全国的所有产品经理岗位等。
 - 支持Request请求的user-agent轮转设置(编写下载器中间件)
-- 支持IP代理，为此特地写了一个自动获取实时可用代理IP池的库 https://github.com/defland/FreeIPAgentPool.py (其实就是爬虫，爬多个免费代理IP网站，抓取可用代理IP和验证之后返回可用list) ，编写现在起中间件
+- 支持IP代理，为此特地写了一个自动获取实时可用代理IP池的库 https://github.com/defland/FreeIPAgentPool.py (其实就是爬虫，爬多个免费代理IP网站，抓取可用代理IP和验证之后返回可用list) ，实现方式为编写下载器中间件
 - 支持保存到Excel
 - 支持保存到Mongodb数据库
 
