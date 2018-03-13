@@ -19,6 +19,11 @@ scrapy版本v1需求(100%实现)：
 - 支持保存到Excel
 - 支持保存到Mongodb数据库
 
+Catspider version (计划中)
+
+- catspider是为了熟悉爬虫，自己仿造scrapy类似自己做url队列管理、下载器管理、分析器管理、持久化存储的微信通用爬虫工具包。
+- https://github.com/defland/CatSpider
+- 使用catspider mvp version重构此爬虫
 
 # 实例效果截图
 
